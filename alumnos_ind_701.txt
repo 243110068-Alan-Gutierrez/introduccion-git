@@ -1,3 +1,4 @@
 MATRICULA,NOMBRE,APELLIDO_PATERNO,APELLIDO_MATERNO,GRUPO,ASIGNATURA
 405043615,Rubén,Ramírez,Gómez,IDS901,Introducción a la Ciencia de Datos
-243110096,Tania Linxy,Perez,Alvarez,IND701,Introduccion a la Ciencia de Datos
+243110096,Tania Linxy,Perez,Alvarez,IND701,Optativa I
+243110227,Santiago,Albarrán,González,IND701,Optativa 1
